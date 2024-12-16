@@ -15,7 +15,6 @@ export default function Portfolio() {
           <div className="mb-12">
             <h2 className="text-4xl font-bold mb-2 relative inline-block">
               ABOUT ME
-              <div className="absolute -right-12 top-1/2 w-40 h-1 bg-orange-500"></div>
             </h2>
             <p className="text-gray-600 leading-relaxed">
               Results-driven professional with 5+ years of experience spanning

@@ -1,14 +1,10 @@
 import Menu from "@/components/Menu";
 import Side from "@/components/Side";
 
-
-
 export default function Portfolio() {
-
   return (
     <div className="min-h-screen bg-[#f8e3b5] flex p-4">
       {/* <Side className="flex-end"/> */}
-
 
       {/* Main Content */}
       <main className="flex-1 ml-4">
@@ -22,12 +18,13 @@ export default function Portfolio() {
               <div className="absolute -right-12 top-1/2 w-40 h-1 bg-orange-500"></div>
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              Hello there! I'm thrilled to welcome you to my portfolio. I am a
-              passionate and versatile full-stack developer with a keen interest
-              in exploring the latest cutting-edge technologies. My journey in
-              the world of web development has been nothing short of
-              exhilarating, and I constantly strive to enhance my skills and
-              embrace emerging trends in the industry.
+              Results-driven professional with 5+ years of experience spanning
+              project management, administrative support, operations assistance,
+              industrial chemistry, and web development. I excel in quality
+              control, process optimization, and time management, ensuring
+              efficient and timely project completion. My strong leadership
+              skills, coupled with critical and creative thinking, drive
+              innovative solutions that consistently meet or exceed expectations
             </p>
           </div>
 

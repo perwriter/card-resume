@@ -59,8 +59,8 @@ export default function ContactPage() {
             <div>
               <h2 className="text-xl font-bold mb-4">Phone:</h2>
               <div className="space-y-2">
-                <p>+254723909353</p>
-                <p>+254738509151</p>
+                <p>+254715990719</p>
+                <p>+254735005251</p>
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function ContactPage() {
             <Mail className="w-6 h-6 text-orange-500 flex-shrink-0" />
             <div>
               <h2 className="text-xl font-bold mb-4">Email:</h2>
-              <p>beatricewambuimbugua@gmail.com</p>
+              <p>perwriters@gmail.com</p>
             </div>
           </div>
         </div>
